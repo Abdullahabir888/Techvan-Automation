@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<!-- TestRunner is sequential (one browser). To run in parallel, set parallel = true in
+     TestRunner AND keep data-provider-thread-count small (2-3) - the site is a live server. -->
+<suite name="TechVan Suite" data-provider-thread-count="1">
+    <test name="TechVan Cucumber Tests">
+        <classes>
+            <class name="com.techvan.runners.TestRunner"/>
+        </classes>
+    </test>
+</suite>

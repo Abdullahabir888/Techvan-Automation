@@ -1,0 +1,8 @@
+file:src/test/resources/features/04_product.feature:17:31:38:43
+file:src/test/resources/features/07_cart.feature:9:14:19
+file:src/test/resources/features/05_login.feature:14
+file:src/test/resources/features/02_navigation.feature:24:41:42:43:44:45
+file:src/test/resources/features/09_checkout.feature:11:16:20:25
+file:src/test/resources/features/10_orders.feature:4:9:14
+file:src/test/resources/features/03_category.feature:15:34:35
+file:src/test/resources/features/01_home.feature:14:39:53
